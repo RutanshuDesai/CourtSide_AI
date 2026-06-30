@@ -17,7 +17,7 @@ This project started from a repeated real-world problem: evaluating tennis match
 
 That turns a simple decision into a multi-step process with enough moving parts that it becomes tedious and error-prone to do manually.
 
-For the full project story, design rationale, and lessons learned, see the accompanying Medium post [link].
+For the full project story, design rationale, and lessons learned, see the accompanying [Medium post](https://medium.com/@rutanshudesai/building-courtside-ai-what-a-personal-ai-assistant-taught-me-about-agentic-decision-making-d9d722a1488d).
 
 ---
 
