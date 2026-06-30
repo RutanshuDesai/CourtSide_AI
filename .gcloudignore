@@ -1,0 +1,14 @@
+.venv
+.env
+notebooks/
+*.pyc
+data
+.DS_Store
+*.ipynb
+README-legacy.md
+tennis_agent_app/production_indexing*.py
+tennis_agent_app/app_db/
+*.log
+google_secret/
+tennis_agent_app/*.txt
+tennis_agent_app/vertex_api.py
